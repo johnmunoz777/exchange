@@ -1,3 +1,6 @@
+############################
+# By John Munoz
+## Using this exchange rate api  
 #https://api.exchangerate-api.com/v4/latest/usd
 #https://api.exchangerate-api.com/v4/latest/cad
 import requests
